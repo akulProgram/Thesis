@@ -1,0 +1,4 @@
+Types of times series:
+Trend
+Seasonal
+Cyclic
