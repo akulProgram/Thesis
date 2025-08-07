@@ -2,3 +2,5 @@ Types of times series:
 Trend
 Seasonal
 Cyclic
+
+Univatiate and Multivariate
